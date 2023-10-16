@@ -17,7 +17,8 @@ Hierop vind je alle informatie over de club, verslagen, activiteiten en nog veel
 ![Schermafbeelding 2023-10-16 113103](https://github.com/Annevd/all-human-wcag-audit/assets/144004647/1156ec7d-0032-4990-99cc-d8e14e09948a)
 
 Omdat ik lang niet op deze website geweest ben en omdat het een lokale club is, had ik geen hoge verwachtingen van de score van de lighthouse audit maar hij kwam erg goed uit de test! Het enige probleem dat uit deze test kwam was dat het contrast op veel plekken té laag was. Daarnaast heb ik een aantal handmatige tests uitgevoerd en deze zijn over het algemeen ook goed gegaan. Bij het tabben waren er een paar kritiek punten, zo ook bij de screenreader test. Een button was bijvoorbeeld niet duidelijk genoeg bij het tabben of een datum werd niet goed voorgelezen. Verder was alles duidelijk en voor het grootste gedeelte goed toegankelijk.
-Bekijk mijn [Wiki](https://github.com/Annevd/all-human-wcag-audit/wiki) voor mijn bevindingen!
+
+Bekijk mijn [Wiki](https://github.com/Annevd/all-human-wcag-audit/wiki) voor mijn uitgebreide bevindingen!
 
 ## Licentie
 
